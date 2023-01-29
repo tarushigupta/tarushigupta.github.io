@@ -1,3 +1,3 @@
 # Tarushi Gupta
 
-[!image](/assets/tarushi-image1.png "Hi, there!")
+<img src = "assets/tarushi-image1.png" height = "150" width = "120"/>
